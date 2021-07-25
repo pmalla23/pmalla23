@@ -1,4 +1,5 @@
-# Hi there! I am [Prashan](https://prashan.vercel.app/) 👋 ![Profile views](https://gpvc.arturio.dev/[pmalla23])
+# Hi there! I am [Prashan](https://prashan.vercel.app/) 👋 
+![Profile views](https://gpvc.arturio.dev/[pmalla23])
 ### I recently graduated from Fairleigh Dickinson University with a Bachelors in Information Technology.
 
 
