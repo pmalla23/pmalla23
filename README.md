@@ -8,9 +8,10 @@
 - 👯 I’m looking to get hired as a software developer or a data analyst. 
 - 💬 Ask me about cars and camping in British Columbia.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: There are more cars than people in Los Angeles. 
+- ⚡ Fun fact: There are more cars than people in Los Angeles. Most of my repositories are private and I cannot change them to public, sorry. Please contact me to know more about some of my projects.
 ---
 ### Stats:
+
 ---
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pmalla23&show_icons=true&theme=radical)
 
