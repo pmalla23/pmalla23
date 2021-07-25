@@ -15,5 +15,7 @@
 
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prashan-malla/) [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/prashan.malla1/)
 
+### Stats:
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pmalla23&show_icons=true&theme=radical)
 
