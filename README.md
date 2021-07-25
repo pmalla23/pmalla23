@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! I am [Prashan](https://prashan.vercel.app/) 👋
+### I recently graduated from Fairleigh Dickinson University with a Bachelors in Information Technology.
 
-<!--
-**pmalla23/pmalla23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on making a [personal website](https://prashan.vercel.app/) using nextJS where I plan to add all the works I have done so far. 
+- 🌱 I’m currently learning nextJS and Machine Learning.
+- 👯 I’m looking to get hired as a software developer or a data analyst. 
+- 💬 Ask me about cars and camping in British Columbia.
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: There are more cars than people in Los Angeles. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prashan-malla/) [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/prashan.malla1/)
